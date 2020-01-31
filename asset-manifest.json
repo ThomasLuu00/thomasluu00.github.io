@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.de254b7a.chunk.css",
+    "main.js": "/my-app/static/js/main.1222b8e4.chunk.js",
+    "main.js.map": "/my-app/static/js/main.1222b8e4.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.e129bf71.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.e129bf71.js.map",
+    "static/js/2.4f2ff7da.chunk.js": "/my-app/static/js/2.4f2ff7da.chunk.js",
+    "static/js/2.4f2ff7da.chunk.js.map": "/my-app/static/js/2.4f2ff7da.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "precache-manifest.475f5bcc7313590bb3daa3d4cc5caf5d.js": "/my-app/precache-manifest.475f5bcc7313590bb3daa3d4cc5caf5d.js",
+    "service-worker.js": "/my-app/service-worker.js",
+    "static/css/main.de254b7a.chunk.css.map": "/my-app/static/css/main.de254b7a.chunk.css.map",
+    "static/js/2.4f2ff7da.chunk.js.LICENSE": "/my-app/static/js/2.4f2ff7da.chunk.js.LICENSE",
+    "static/media/simpleSnails.ttf": "/my-app/static/media/simpleSnails.2d01c3a8.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e129bf71.js",
+    "static/js/2.4f2ff7da.chunk.js",
+    "static/css/main.de254b7a.chunk.css",
+    "static/js/main.1222b8e4.chunk.js"
+  ]
+}
